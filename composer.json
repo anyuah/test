@@ -1,0 +1,21 @@
+{
+    "name": "cyh/test",
+    "description": "备注",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anyuah",
+            "email": "809355897@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "> 7.0"
+    }
+}
